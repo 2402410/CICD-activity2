@@ -1,6 +1,6 @@
 
 def greet():
-    return "Hello! Welcome to Software Engineering."
+    return "Hello, Daryl! Welcome to our Updated Software Engineering Activity."
 
 
 if __name__ == "__main__":
