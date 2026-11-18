@@ -1,4 +1,3 @@
-
 import unittest
 from src.app import greet
 
@@ -7,7 +6,7 @@ class TestGreeting(unittest.TestCase):
     def test_greeting(self):
         self.assertEqual(
             greet(),
-            "Hello! Welcome to Software Engineering."
+            "Hello, Daryl! Welcome to our Updated Software Engineering Activity."
         )
 
 
